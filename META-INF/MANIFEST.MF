@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Build-Id: 2.3.4
+Build-Version: JAXB RI 2.3.4
+Git-Revision: 2a16b4e
+Git-Url: scm:git:ssh://git@github.com/eclipse-ee4j/jaxb-ri/jaxb-xjc
+Implementation-Title: Jakarta XML Binding Implementation
+Implementation-Vendor: Eclipse Foundation
+Implementation-Vendor-Id: org.eclipse
+Implementation-Version: 2.3.4-migrated-1.0.7
+Major-Version: 2.3.4
+Multi-Release: true
+Specification-Title: Jakarta XML Binding
+Specification-Version: 2.3
+
